@@ -4,6 +4,8 @@ output: html_document
 date: "2024-10-17"
 ---
 
+# adding a line to see if this works again
+
 # Description 
 
 The code in all of these markdowns are designed to replicate the analyses from the Blain et al. (2021) paper. It is structured in the following way: 
@@ -91,6 +93,12 @@ library(lmerTest)
 
 
 options(scipen = 999)
+
+```
+
+```{r}
+
+checking
 
 ```
 
